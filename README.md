@@ -14,14 +14,12 @@
 
 ```javascript
 const RameshNeupane = {
-  pronouns: "he" | "him",
-  nickname: "maailo",
   emailMe: "neupaneramesh555@gmail.com" | "rameshneupane.ai@gmail.com",
   coreMe: ["CSIT", "Coding", "AIMLDL", "Research", "Mathmematics", "Football", "Farming", "Cooking", "A random act of kindness"],
   shouldMe: ["Explore the world and beyond", "Make new friends", "Plant trees", "Keep the environment clean", "Promote agriculture"],
   futureMe: ["Software", "AI", "Robotics", "Research", "Farming"],
   degreeMe: "BSc. CSIT (Tribhuvan University)",
-  goalMe: "To learn AI by myself and become AI engineer",
+  goalMe: "To learn AI by myself and become an AI engineer",
   factMe: "C is my first love",
 }
 ```
