@@ -37,7 +37,7 @@ const RameshNeupane = {
    <a href="https://x.com/rameshneupane98">
     <img src="https://skillicons.dev/icons?i=twitter" title="X (Twitter) - Ramesh Neupane" />
   </a>
-   <a href="https://www.instagram.com/kritagya.2025">
+   <a href="https://www.instagram.com/aka.kritagya">
     <img src="https://skillicons.dev/icons?i=instagram" title="Instagram - Ramesh Neupane" />
   </a>
 </p>
