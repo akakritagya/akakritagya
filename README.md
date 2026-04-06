@@ -14,13 +14,13 @@
 
 ```javascript
 const RameshNeupane = {
-  emailMe: "neupaneramesh555@gmail.com" | "rameshneupane.ai@gmail.com",
+  emailMe: "rameshneupane.ai@gmail.com" | "neupaneramesh555@gmail.com",
   coreMe: ["CSIT", "Coding", "AIMLDL", "Research", "Mathmematics", "Football", "Farming", "Cooking", "A random act of kindness"],
   shouldMe: ["Explore the world and beyond", "Make new friends", "Plant trees", "Keep the environment clean", "Promote agriculture"],
   futureMe: ["Software", "AI", "Robotics", "Research", "Farming"],
   degreeMe: "BSc. CSIT (Tribhuvan University)",
-  goalMe: "To learn AI by myself and become an AI engineer",
-  factMe: "C is my first love",
+  goalMe: "an AIMLDL engineer",
+  factMe: "C is my first love ;)",
 }
 ```
 
@@ -34,7 +34,7 @@ const RameshNeupane = {
   <a href="https://www.linkedin.com/in/ramesh-neupane">
     <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn - Ramesh Neupane" />
   </a>
-   <a href="https://x.com/rameshneupane98">
+   <a href="https://x.com/aka_kritagya">
     <img src="https://skillicons.dev/icons?i=twitter" title="X (Twitter) - Ramesh Neupane" />
   </a>
    <a href="https://www.instagram.com/aka.kritagya">
@@ -45,7 +45,7 @@ const RameshNeupane = {
 <h4><b>👉 One more thing 👇</b></h4>
 <p>One of the best things that has happened in my life 👉 I got introduced to <b>Computer Science and Information Technology</b>.</p>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=RameshNeupane&style=for-the-badge&color=blue" width="180">
 </p>
 
