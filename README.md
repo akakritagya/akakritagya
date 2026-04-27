@@ -18,7 +18,7 @@ const RameshNeupane = {
   coreMe: ["CSIT", "Coding", "AIMLDL", "Research", "Mathmematics", "Football", "Farming", "Cooking", "A random act of kindness"],
   shouldMe: ["Explore the world and beyond", "Make new friends", "Plant trees", "Keep the environment clean", "Promote agriculture"],
   futureMe: ["Software", "AI", "Robotics", "Research", "Farming"],
-  degreeMe: "BSc. CSIT (Tribhuvan University)",
+  degreeMe: "BSc. CSIT (Tribhuvan University - IOST)",
   goalMe: "an AIMLDL engineer",
   factMe: "C is my first love ;)",
 }
@@ -31,7 +31,7 @@ const RameshNeupane = {
 <h2>Lets get connected</h2>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ramesh-neupane">
+  <a href="https://www.linkedin.com/in/ramesh-neupane-ai">
     <img src="https://skillicons.dev/icons?i=linkedin" title="LinkedIn - Ramesh Neupane" />
   </a>
    <a href="https://x.com/aka_kritagya">
