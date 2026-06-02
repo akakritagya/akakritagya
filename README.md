@@ -6,9 +6,8 @@
 
 <p><b>An aspiring technologist and passionate developer, based in Nepal, on a journey to transform ideas into impactful digital solutions.</b></p>
 
-<ul>
-  <li>I'm currently learning <b>AIMLDL</b>.</li>
-</ul>
+- I'm currently learning **`['AI', 'ML', 'DL']`**.
+
 
 <h3>A bit more about me:</h3>
 
