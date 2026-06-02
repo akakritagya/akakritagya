@@ -7,7 +7,7 @@
 <p><b>An aspiring technologist and passionate developer, based in Nepal, on a journey to transform ideas into impactful digital solutions.</b></p>
 
 <ul>
-  <li>I'm currently learning <b>AI, DSA</b>.</li>
+  <li>I'm currently learning <b>AIMLDL</b>.</li>
 </ul>
 
 <h3>A bit more about me:</h3>
@@ -26,7 +26,7 @@ const me = {
 
 <h2>Languages and Tools</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,ts,html,css,git,react,nextjs,tailwind,nodejs,express,mysql,mongodb,opencv,docker&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,js,ts,git,nextjs,nodejs,mysql,docker&perline=10)](https://skillicons.dev)
 
 <h2>Lets get connected</h2>
 
@@ -42,8 +42,9 @@ const me = {
   </a>
 </p>
 
-<h4><b>👉 One more thing 👇</b></h4>
-<p>One of the best things that has happened in my life 👉 I got introduced to <b>Computer Science and Information Technology</b>.</p>
+> One of the best things that has happened in my life is that I got introducted to **Computer Science and Information Technology**.
+
+---
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=RameshNeupane&style=for-the-badge&color=blue" width="180">
