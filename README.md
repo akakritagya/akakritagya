@@ -13,13 +13,13 @@
 <h3>A bit more about me:</h3>
 
 ```javascript
-const RameshNeupane = {
+const me = {
   emailMe: "rameshneupane.ai@gmail.com" | "neupaneramesh555@gmail.com",
   coreMe: ["CSIT", "Coding", "AIMLDL", "Research", "Mathmematics", "Football", "Farming", "Cooking", "A random act of kindness"],
   shouldMe: ["Explore the world and beyond", "Make new friends", "Plant trees", "Keep the environment clean", "Promote agriculture"],
-  futureMe: ["Software", "AI", "Robotics", "Research", "Farming"],
-  degreeMe: "BSc. CSIT (Tribhuvan University - IOST)",
-  goalMe: "an AIMLDL engineer",
+  futureMe: ["Software", "AI", "Robotics", "Research", "Farming", "Entrepreneurship"],
+  graduationMe: "BSc. CSIT (Tribhuvan University - IOST)",
+  goalMe: "An AIMLDL engineer",
   factMe: "C is my first love ;)",
 }
 ```
