@@ -6,20 +6,17 @@
 
 <p><b>An aspiring technologist and passionate developer, based in Nepal, on a journey to transform ideas into impactful digital solutions.</b></p>
 
-- I'm currently learning **`['AI', 'ML', 'DL']`**.
+- I'm currently learning **`AI Engineering`**.
 
 
 <h3>A bit more about me:</h3>
 
-```javascript
-const me = {
-  emailMe: "rameshneupane.ai@gmail.com" | "neupaneramesh555@gmail.com",
-  coreMe: ["CSIT", "Coding", "AIMLDL", "Research", "Mathmematics", "Football", "Farming", "Cooking", "A random act of kindness"],
-  shouldMe: ["Explore the world and beyond", "Make new friends", "Plant trees", "Keep the environment clean", "Promote agriculture"],
-  futureMe: ["Software", "AI", "Robotics", "Research", "Farming", "Entrepreneurship"],
-  graduationMe: "BSc. CSIT (Tribhuvan University - IOST)",
-  goalMe: "An AIMLDL engineer",
-  factMe: "C is my first love ;)",
+```python
+me = {
+  "email": ["rameshneupane.ai@gmail.com", "neupaneramesh555@gmail.com"],
+  "core": ["CSIT", "AIMLDL", "Research", "Mathmematics", "Programming", "Software Engineering"],
+  "graduation": "BSc. CSIT (Tribhuvan University - IOST)",
+  "fun_fact": "C is my first love ;)",
 }
 ```
 
@@ -43,9 +40,7 @@ const me = {
 
 > One of the best things that has happened in my life is that I got introducted to **Computer Science and Information Technology**.
 
----
-
-<p align="left">
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=RameshNeupane&style=for-the-badge&color=blue" width="180">
-</p>
+</p> -->
 
