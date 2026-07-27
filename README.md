@@ -14,7 +14,7 @@
 ```python
 me = {
   "email": ["rameshneupane.ai@gmail.com", "neupaneramesh555@gmail.com"],
-  "core": ["CSIT", "AIMLDL", "Research", "Mathmematics", "Programming", "Software Engineering"],
+  "core": ["CSIT", "AIMLDL", "Research", "Mathmematics", "Software Engineering"],
   "graduation": "BSc. CSIT (Tribhuvan University - IOST)",
   "fun_fact": "C is my first love ;)",
 }
