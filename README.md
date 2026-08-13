@@ -51,14 +51,6 @@ me = {
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akakritagya/akakritagya/output/breakout-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akakritagya/akakritagya/output/breakout-contribution-graph.svg">
-    <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/akakritagya/akakritagya/output/breakout-contribution-graph.svg">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akakritagya/akakritagya/output/snake-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akakritagya/akakritagya/output/snake-contribution-graph.svg">
     <img alt="snake contribution graph" src="https://raw.githubusercontent.com/akakritagya/akakritagya/output/snake-contribution-graph.svg">

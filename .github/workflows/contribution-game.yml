@@ -16,13 +16,6 @@ jobs:
     timeout-minutes: 20
 
     steps:
-      - name: generate breakout contribution graph SVGs
-        uses: abozanona/pacman-contribution-graph@main
-        with:
-          github_user_name: ${{ github.repository_owner }}
-          games: 'breakout'
-          hide_month_labels: 'false'
-
       - name: generate snake contribution graph SVGs
         uses: Platane/snk@v3
         with:
