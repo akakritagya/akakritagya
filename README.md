@@ -41,15 +41,15 @@ me = {
 <h2>GitHub Stats</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akakritagya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ramesh's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akakritagya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="165" src="./profile/stats.svg" alt="Ramesh's GitHub Stats" />
+  <img height="165" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akakritagya&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
-<h2>Contribution Game</h2>
+<!-- <h2>Contribution Game</h2> -->
 
 <p align="center">
   <picture>
@@ -60,8 +60,3 @@ me = {
 </p>
 
 > One of the best things that has happened in my life is that I got introducted to **Computer Science and Information Technology**.
-
-<!-- <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=RameshNeupane&style=for-the-badge&color=blue" width="180">
-</p> -->
-
