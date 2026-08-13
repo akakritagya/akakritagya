@@ -38,6 +38,27 @@ me = {
   </a>
 </p>
 
+<h2>GitHub Stats</h2>
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=akakritagya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ramesh's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akakritagya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akakritagya&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+<h2>Contribution Game</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akakritagya/akakritagya/output/breakout-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akakritagya/akakritagya/output/breakout-contribution-graph.svg">
+    <img alt="breakout contribution graph" src="https://raw.githubusercontent.com/akakritagya/akakritagya/output/breakout-contribution-graph.svg">
+  </picture>
+</p>
+
 > One of the best things that has happened in my life is that I got introducted to **Computer Science and Information Technology**.
 
 <!-- <p align="left">
