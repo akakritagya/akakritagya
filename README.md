@@ -57,4 +57,12 @@ me = {
   </picture>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/akakritagya/akakritagya/output/snake-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/akakritagya/akakritagya/output/snake-contribution-graph.svg">
+    <img alt="snake contribution graph" src="https://raw.githubusercontent.com/akakritagya/akakritagya/output/snake-contribution-graph.svg">
+  </picture>
+</p>
+
 > One of the best things that has happened in my life is that I got introduced to **Computer Science and Information Technology**.
