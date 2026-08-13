@@ -14,7 +14,7 @@
 ```python
 me = {
   "email": ["rameshneupane.ai@gmail.com", "neupaneramesh555@gmail.com"],
-  "core": ["CSIT", "AIMLDL", "Research", "Mathmematics", "Software Engineering"],
+  "core": ["CSIT", "AIMLDL", "Research", "Mathematics", "Software Engineering"],
   "graduation": "BSc. CSIT (Tribhuvan University - IOST)",
   "fun_fact": "C is my first love ;)",
 }
@@ -46,10 +46,8 @@ me = {
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=akakritagya&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img width="100%" src="./profile/activity-graph.svg" alt="Activity Graph" />
 </p>
-
-<!-- <h2>Contribution Game</h2> -->
 
 <p align="center">
   <picture>
@@ -59,4 +57,4 @@ me = {
   </picture>
 </p>
 
-> One of the best things that has happened in my life is that I got introducted to **Computer Science and Information Technology**.
+> One of the best things that has happened in my life is that I got introduced to **Computer Science and Information Technology**.
