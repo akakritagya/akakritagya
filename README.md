@@ -6,7 +6,7 @@
 
 <p><b>An aspiring technologist and passionate engineer, based in Nepal, on a journey to transform ideas into impactful digital solutions.</b></p>
 
-- I'm currently learning **`AI Engineering`**.
+- I'm currently learning **`AI | ML | DL`**.
 
 
 <h3>A bit more about me:</h3>
